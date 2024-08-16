@@ -17,5 +17,5 @@ st.write("Cette application est conçue pour aider les assureurs à calculer les
 
 # Redirection vers la page de calcul de prime
 if st.button("Commencez maintenant"):
-    st.switch_page("pages/2_🧮Calculateur.py")
+    st.switch_page("pages/2_Calculateur.py")
 
